@@ -1,3 +1,4 @@
+# HOW TO
 Na računalniku se prijaviš v svoj TR račun
 
 Greš pod PROFILE - ACTIVITY
