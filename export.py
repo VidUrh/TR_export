@@ -39,9 +39,6 @@ for entry in timeline_entries_list:
     price = entry.find(class_="timelineEvent__price").get_text().strip()
     title = entry.find(class_="timelineEvent__title").get_text().strip()
     
-    if title != "Interest":
-        continue
-    
     
     if price.startswith("+"):
         price = price[1:]
