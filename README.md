@@ -11,4 +11,4 @@ COPY celga htmlja -> desni klik + edit as HTML je najlažje
 
 PASTE v input.txt
 
-VOILA -> dobiš output v csv (';' je nova celica '\n' je nova celica)
+VOILA -> dobiš output v csv (';' je nova celica '\n' je nova vrsta)
